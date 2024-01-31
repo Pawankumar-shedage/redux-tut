@@ -1,0 +1,4 @@
+
+Redux day 1: 
+    Implemented counter,
+    State,Store data,action,reducer(state,action)..;
