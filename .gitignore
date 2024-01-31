@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-src/assests/Notes.txt
+src/assets/Notes.txt
 
 # Editor directories and files
 .vscode/*
