@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 src/assets/Notes.txt
+src/assets/test.txt
 
 # Editor directories and files
 .vscode/*
