@@ -9,7 +9,7 @@ export const CakeShop = () => {
     <>
       <div>CakeShop</div>
       <div>
-        Available Cakes
+        Available Cakes :
         {typeof cakes == "object"
           ? Object.entries(cakes).map((item, index) => (
               <ul key={index}>
